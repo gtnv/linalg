@@ -7,4 +7,4 @@ This repo houses my kernels and agentic engineering setup (for the cholesky chal
 | `eigh-submission.py` | **44,093.747589 μs paired** |
 | `qr-v2-submission.py` | **2,851.127 μs** |
 
-EIGH public: 44,036.028401 μs. Secret: 44,151.542432 μs.
+<img width="601" height="828" alt="msaroufim tweet" src="https://github.com/user-attachments/assets/635ea52e-b1d4-4a8f-8edd-4787bf263a37" />
