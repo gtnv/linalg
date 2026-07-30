@@ -4,8 +4,11 @@ This repo houses my kernels and agentic engineering setup (for the cholesky chal
 
 | Submission | Recorded score |
 | --- | ---: |
-| `eigh-submission.py` | **44,093.747589 μs paired** |
-| `qr-v2-submission.py` | **2,851.127 μs** |
+| Eigh | 44,093.747589 μs |
+| QR v2 | 2,851.127 μs |
+| Cholesky | 364.479μs |
+
+Something I felt was cool was that at the time of this tweet, my submission was handwritten. On this tweet, my submission is 3rd place (needless to say I didn't end up remotely close to 3rd place in QR v2). 
 
 <p align="center">
   <img width="541" alt="msaroufim tweet" src="https://github.com/user-attachments/assets/635ea52e-b1d4-4a8f-8edd-4787bf263a37" />
